@@ -1,0 +1,28 @@
+div.bloque {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	display:block;
+	border: 5px solid black;
+	margin: 10px;
+}
+
+div.inline{
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	border: 5px solid black;
+	margin: 10px;
+}
+
+div#conte {
+	display:block;
+	background-color:purple;
+	border:5px solid black;
+	padding: 20px;
+	margin:10px;
+	width: 400px;
+
+
+}
